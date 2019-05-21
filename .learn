@@ -1,4 +1,4 @@
-tags:
+def tags:
   - oop
   - attr_accessors
   - micro
